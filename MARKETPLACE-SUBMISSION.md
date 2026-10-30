@@ -14,7 +14,7 @@ Body (keep headings and checklist exactly):
 ```
 ### Repository URL
 
-https://github.com/cytracon/shortcuts
+https://github.com/cytracon/omarchy-cytracon-shortcuts
 
 ### Category
 

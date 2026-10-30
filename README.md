@@ -9,7 +9,7 @@ Layout follows the official Omarchy plugin template: `manifest.json`, `Overlay.q
 ## Install
 
 ```sh
-omarchy plugin add https://github.com/cytracon/shortcuts.git --enable
+omarchy plugin add https://github.com/cytracon/omarchy-cytracon-shortcuts.git --enable
 ```
 
 The plugin enables itself as an overlay/service. No bar widget is added.
